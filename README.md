@@ -35,7 +35,7 @@
 
 <td align="center">
 
-<img src="./images/avatar.png" width="260"/>
+<img src="WhatsApp Image 2026-07-17 at 22.06.59.jpeg"/>
 
 </td>
 
