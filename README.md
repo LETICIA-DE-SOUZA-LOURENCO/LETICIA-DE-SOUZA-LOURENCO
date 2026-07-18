@@ -106,6 +106,10 @@
 
 </p>
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/LETICIA-DE-SOUZA-LOURENCO/LETICIA-DE-SOUZA-LOURENCO/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 ---
 
 <div align="center">
