@@ -76,33 +76,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LETICIA-DE-SOUZA-LOURENÇO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LETICIA-DE-SOUZA-LOURENÇO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=LETICIA-DE-SOUZA-LOURENÇO&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LETICIA-DE-SOUZA-LOURENÇO&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -116,6 +89,6 @@
 
 ### 💙 Obrigada pela visita!
 
-<img src="https://komarev.com/ghpvc/?username=LETICIA-DE-SOUZA-LOURENÇO&label=Visualizações&color=4F7CFF&style=for-the-badge">
+
 
 </div>
