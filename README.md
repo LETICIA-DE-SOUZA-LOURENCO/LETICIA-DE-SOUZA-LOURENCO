@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💙 Olá, eu sou a Letícia de Souza lourenço!
+#  Olá, eu sou a Letícia de Souza lourenço!
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=4F7CFF&center=true&vCenter=true&width=500&lines=Estudante;Apaixonada+por+Tecnologia;Aprendendo+Python;Bem-vindo(a)+ao+meu+perfil!">
 
@@ -13,9 +13,9 @@
 
 <td width="60%">
 
-## 💙 Sobre mim
+##  Sobre mim
 
-🫐 Estudante de **Logica de programção e desenvolvimento de Web com IA**
+ Estudante de **Logica de programção e desenvolvimento de Web com IA**
 
 💻 Aprendendo:
 
