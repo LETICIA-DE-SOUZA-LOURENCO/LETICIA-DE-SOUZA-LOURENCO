@@ -35,7 +35,7 @@
 
 <td align="center">
 
-<img src="WhatsApp Image 2026-07-17 at 22.06.59.jpeg"/>
+<img  src="WhatsApp Image 2026-08-21 at 15.55.58.jpeg"/>
 
 </td>
 
